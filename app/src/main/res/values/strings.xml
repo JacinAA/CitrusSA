@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TestingApp</string>
+    <string name="txt_number1">First number</string>
+    <string name="txt_number2">Second number</string>
+    <string name="sum_but">Add</string>
+    <string name="rest_but">Subtract</string>
+    <string name="txt_result">Result</string>
+    <string name="next_butt">Next</string>
+    <string name="exampleText">Texto Blablabla</string>
+    <string name="backButton">Back</string>
+    <string name="editText2">Parametro editable</string>
+
+</resources>
